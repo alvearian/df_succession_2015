@@ -1,0 +1,113 @@
+item_toy
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_PUZZLEBOX]
+[NAME:puzzlebox:puzzleboxes]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BOAT]
+[NAME:toy boat:toy boats]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HAMMER]
+[NAME:toy hammer:toy hammers]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_AXE]
+[NAME:toy axe:toy axes]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MINIFORGE]
+[NAME:mini-forge:mini-forges]
+[HARD_MAT]
+
+----------------------
+
+[ITEM_TOY:ITEM_TOY_CHESSBOARD]
+[NAME:chessboard:chessboards]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_GO_BOARD]
+[NAME:Go game:Go games]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_TABLETOP]
+[NAME:Human Castle game:Human Castle games]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_FLOWER]
+[NAME:flower:flowers]
+
+[ITEM_TOY:ITEM_TOY_TREE]
+[NAME:toy tree:toy trees]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_DEER_FIGURINE]
+[NAME:deer figurine:deer figurines]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_WOLF_FIGURINE]
+[NAME:wolf figurine:wolf figurines]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BEAR_FIGURINE]
+[NAME:bear figurine:bear figurines]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BOWL]
+[NAME:bowl:bowls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CUP]
+[NAME:tankard:tankards]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_GOGGLES]
+[NAME:goggles:goggles]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MINIWELL]
+[NAME:mini well:mini wells]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MINIDEPOT]
+[NAME:mini depot:mini depots]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CATAPULT]
+[NAME:toy catapult:toy catapults]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_LAMP] --for certain workshops
+[NAME:lamp:lamps]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MEDALLION]
+[NAME:medallion:medallions]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SHAMANRING] --for certain workshops
+[NAME:shaman ring:shaman rings] "movements of a metal ring placed on the vibrating drum skin" "Sami shamanic"
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SLIDINGPUZZLE]
+[NAME:sliding puzzle:sliding puzzles]
+
+[ITEM_TOY:ITEM_TOY_RINGTOSS] --could be of leather too.
+[NAME:ring toss game:ring toss games]
+
+[ITEM_TOY:ITEM_TOY_PLAYNOBLE] --could be of leather too. For kids to pretend to be mayor/taxcollector etc.
+[NAME:kids badge of office:kids badges of office]
+
+[ITEM_TOY:ITEM_TOY_BALLSET] --three to nine balls, for rolling, bowling, juggling.
+[NAME:ball set:ball sets]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CUBESET]
+[NAME:stacking cube set:stacking cube sets]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ARCHITECTSET]
+[NAME:little architect bricks:little architect bricks]
+[HARD_MAT]

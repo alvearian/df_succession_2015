@@ -1,0 +1,31 @@
+tissue_template_raksha
+
+[OBJECT:TISSUE_TEMPLATE]
+
+[TISSUE_TEMPLATE:EBONE_TEMPLATE]
+	[TISSUE_NAME:ebone:NP] Whether it has a plural depends on exact part
+	[STRUCTURAL]
+	[CONNECTIVE_TISSUE_ANCHOR]
+	[TISSUE_MATERIAL:LOCAL_CREATURE_MAT:BONE]
+	[RELATIVE_THICKNESS:5]
+	[HEALING_RATE:1500]
+	[VASCULAR:20]
+	[PAIN_RECEPTORS:60]
+	[CONNECTS]
+	[TISSUE_SHAPE:LAYER]
+	[SETTABLE]
+	[SPLINTABLE]
+
+[TISSUE_TEMPLATE:SKULLEBONE_TEMPLATE] --by TomiTapio, in progress xxx
+	[TISSUE_NAME:cranium:NP]
+	[STRUCTURAL]
+	[CONNECTIVE_TISSUE_ANCHOR]
+	[TISSUE_MATERIAL:LOCAL_CREATURE_MAT:BONE]-xxxx boost this bonemat
+	[RELATIVE_THICKNESS:4]
+	[HEALING_RATE:1700] --slow-ish
+	[VASCULAR:60] --the purpose of skullbone, that one doesn't live after skull been shattered seven times. But more durable material.
+	[PAIN_RECEPTORS:38]
+	[CONNECTS]
+	[TISSUE_SHAPE:LAYER]
+	--SETTABLE]
+	--SPLINTABLE]
