@@ -1,0 +1,3 @@
+[submodule "raw"]
+	path = raw
+	url = https://bitbucket.org/vuvko/dwarf-fortress-raw-files
