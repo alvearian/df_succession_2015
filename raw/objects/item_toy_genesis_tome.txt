@@ -1,7 +1,0 @@
-item_toy_genesis_tome
-
-[OBJECT:ITEM]
-
-- vellum toy deleted, which the Genesis library and tome custom-workshop used.
-
-- all TOME toys deleted

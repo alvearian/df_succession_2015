@@ -1,4 +1,0 @@
-reaction_library
-
-[OBJECT:REACTION]
-
